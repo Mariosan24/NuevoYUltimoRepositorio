@@ -127,7 +127,7 @@ header img{
     background: url('../img/esteto.jpg') no-repeat 0 -330px;
     text-align: center;
     color: white;
-    border-bottom: 5px coral solid;
+    border-bottom: 5px red solid;
 }
 
 #intro h1{
@@ -180,9 +180,9 @@ article{
     margin: 20px;
     text-align: center;
     transition: all 0.25s;
-    background-color:var(--borde);
+    background-color:rgb(3, 21, 48);
     border: solid 0.5px;
-    border-color: var(--borde);
+    border-color: rgb(3, 21, 48);
     margin-top: 30px;
     
 }
