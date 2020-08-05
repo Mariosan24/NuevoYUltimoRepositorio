@@ -16,7 +16,7 @@
                     <article>
                         <h1>Hemograma</h1>
                         <div id="imagen-cont">
-                            <img src="public/img/pa.png" alt="Procedimiento">
+                            <img src="public/img/hemo.jpg" alt="Procedimiento">
                         </div>
                         <div>
                             <h4>¿Qué es un análisis de sangre?</h4>
@@ -51,7 +51,7 @@
                     <article>
                         <h1>Glucosa</h1>
                         <div id="imagen-ultra">
-                            <img src="public/img/cesare.png" alt="Procedimiento">
+                            <img src="public/img/gluco.png" alt="Procedimiento">
                         </div>
                         <div>
                             

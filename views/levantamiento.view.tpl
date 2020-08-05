@@ -13,7 +13,7 @@
                     <article>
                         <h1>Examenes de Colesterol</h1>
                         <div class="imagen-principal">
-                            <img src="public/img/levantaV.jpg" alt="">
+                            <img src="public/img/coles.jpg" alt="">
                         </div>
                         <h1>¿Qué es el colesterol?</h1>
                         <p>El colesterol es una sustancia cerosa y parecida a la grasa que se encuentra en todas las células de su cuerpo. Su cuerpo necesita algo de colesterol para producir hormonas, vitamina D y sustancias que le ayuden a digerir los alimentos. </p>
@@ -36,7 +36,7 @@
                             <p>- Lipoproteína de muy baja densidad (VLDL en inglés). Algunos también la califican como colesterol "malo" porque contribuye a la acumulación de placa en las arterias. Pero la lipoproteína de muy baja densidad y el LDL son diferentes; la lipoproteína de muy baja densidad transporta triglicéridos y el LDL principalmente lleva colesterol</p>
                             
                         <div class="imagen-vejiga">
-                            <img src="public/img/levVejiga.png" alt="">
+                            <img src="public/img/coles2.jpg" alt="">
                         </div>
                     </article>
                     <aside class="sidebar">
