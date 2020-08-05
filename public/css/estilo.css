@@ -1,3 +1,25 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #02075d;
+  height: 1em;
+  border-bottom: 5px red solid;
+
+}
+
+header .actual a{
+  color: var(--borde);
+  font-weight: bold;
+  border: 2px solid var(--borde);
+  padding: 5px;
+ 
+}
+header img{
+  width: 15em;
+}
+
 body {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, arial, sans-serif;
   font-size: 16px;
