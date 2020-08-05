@@ -61,8 +61,8 @@
 
             </div>
             <div class="imagen-doctor">
-                <img src="public/img/curriculum.jpeg" alt="Dr. Mohamed Zelaya">
-                <img id="imagen2" src="public/img/curriculum2.jpeg" alt="Dr. Mohamed ZelayaS">
+                <img src="public/img/curriculum3.jpeg" alt="Dr. Mohamed Zelaya">
+                <img id="imagen2" src="public/img/curriculum4.jpeg" alt="Dr. Mohamed ZelayaS">
             </div>
         </section>
 </body>
