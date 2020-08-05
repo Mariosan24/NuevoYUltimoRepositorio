@@ -4,7 +4,7 @@
     --borde:#7ebbf7;
     --secundario:#eff1f1;
     --oscuro:#1315ab;
-    --sombra: 0 1px 5px rgba(104,104,104,0.8);
+    --sombra: 0 1px 5px rgba(241, 0, 0, 0.87);
 }
 
 
@@ -110,14 +110,11 @@ header img{
 .main-nav li a{
     background:#02075d;
     border-radius: 16px;
-    text-decoration: none;
- 
 }
 
 .main-nav li a:hover{
     color: var(--primario);
     
-
 }
 
 
@@ -149,9 +146,9 @@ header img{
 /*Seccion medio*/
 
 .cajas{
-    background:wheat;
+    background:white;
     width: 100%;
-   
+   color: white;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -159,7 +156,7 @@ header img{
     align-content: center;
     padding: 20px;
     text-align: center;
-    border-bottom: 5px coral solid;
+    border-bottom: 5px red solid;
 }
 
 .caja1{
@@ -170,7 +167,7 @@ header img{
     box-shadow: var(--sombra);
     margin: 0 50px 0 0;
     padding: 2px;
-    background: rgb(248, 246, 246);
+    background: rgb(46, 45, 45);
     
 }
 
@@ -182,7 +179,7 @@ header img{
     border-radius: 10px;
     box-shadow: var(--sombra);
     padding: 2px;
-    background: rgb(248, 246, 246);
+    background: rgb(46, 45, 45);
 }
 
 
