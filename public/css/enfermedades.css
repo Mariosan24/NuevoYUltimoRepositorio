@@ -151,8 +151,7 @@ article{
     padding: 1em 2em 1em 2em;
     border: 16px,var(--borde);
     border-radius: 5%;
-    box-shadow: 3px 3px 5px ,var(--borde);
-    margin-bottom: 100px;
+    box-shadow: 3px 3px 5px ,var(--sombra);
     display: flex;
     align-items: center;
     border-color: var(--borde);
