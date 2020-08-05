@@ -11,43 +11,40 @@
             <section id="vejiga">
                 <section class="informacion">
                     <article>
-                        <h1>Levantamiento de Vejiga / Reparación de prolapso vesical o uretral</h1>
+                        <h1>Examenes de Colesterol</h1>
                         <div class="imagen-principal">
                             <img src="public/img/levantaV.jpg" alt="">
                         </div>
-                        <h1>Informacion sobre la cirugía</h1>
-                        <p>Dos formas comunes del prolapso de órganos pélvicos son el prolapso vesical (cistocele) y el prolapso uretral (uretrocele). Un cistocele ocurre cuando la pared de la vejiga presiona contra la pared vaginal y la desplaza. Un uretrocele ocurre cuando los tejidos que rodean la uretra cuelgan ingresando en la vagina. Su médico puede detectar ambas afecciones fácilmente durante un examen físico. Con frecuencia se presentan al mismo tiempo y suelen estar causadas por daño que ocurre cuando un bebé nace a través del canal de parto de la madre (vagina).</p>
+                        <h1>¿Qué es el colesterol?</h1>
+                        <p>El colesterol es una sustancia cerosa y parecida a la grasa que se encuentra en todas las células de su cuerpo. Su cuerpo necesita algo de colesterol para producir hormonas, vitamina D y sustancias que le ayuden a digerir los alimentos. </p>
                         </br>
-                        <p>Aunque muchas mujeres tienen algún grado de prolapso de vejiga y de uretra , pocas llegan a tener síntomas. O los síntomas pueden no aparecer durante años. Cuando los síntomas aparecen, pueden incluir dificultad para orinar, emisión involuntaria de orina ( incontinencia urinaria ) y dolor durante el coito. No se requiere cirugía a menos que los síntomas interfieran con sus actividades diarias.</p>
+                        <p>Su cuerpo produce todo el colesterol que necesita. El colesterol también se encuentra en alimentos de origen animal, como yemas de huevo, carne y queso.</p>
                         </br>
-                        <p>A menos que exista otro problema de salud que pudiera requerir una incisión abdominal, la vejiga y la uretra se suelen reparar por medio de una incisión en la pared vaginal. Esta cirugía une el tejido flojo o desgarrado en la zona del prolapso en la vejiga o en la uretra y fortalece la pared vaginal. Esto ayuda a evitar la recurrencia del prolapso.</p>
+                        <p>Si tiene demasiado colesterol en la sangre, puede combinarse con otras sustancias en la sangre para formar placa.</p>
                         </br>
-                        <p>Existen varios tipos de cirugía para corregir la incontinencia urinaria de esfuerzo. Estas cirugías levantan la uretra y/o la vejiga y las colocan en su posición normal. Para saber más acerca de estos procedimientos quirúrgicos, vea el tema Incontinencia urinaria en mujeres .</p>
+                        <p>La placa se pega a las paredes de sus vasos sanguíneos. Esta acumulación se llama arterioesclerosis. Puede provocar enfermedad de las arterias coronarias, la que puede estrecharlas o incluso bloquearlas.</p>
                         </br>
-                        <h1>Por qué realizarse la cirugía</h1>
-                        <p>La reparación de la vejiga y la uretra se hace para controlar síntomas como presión en la pared vaginal a partir del movimiento de esos órganos, dificultad para orinar, incontinencia urinaria y dolor durante el coito. Si usted tiene emisiones involuntarias de orina (incontinencia urinaria), puede ser necesario realizar más pruebas para averiguar qué procedimiento se necesita.</p>
+                        <h1>¿Qué es el colesterol bueno (HDL), el colesterol malo (LDL) y la lipoproteína de muy baja densidad (VLDL)?</h1>
+                        <p>El colesterol bueno (HDL), malo (LDL) y lipoproteína de muy baja densidad (VLDL) son lipoproteínas, es decir, una combinación de grasas (lípidos) y proteínas</p>
                         </br>
-                        <p>El prolapso de la vejiga y de la uretra suele ocurrir junto con el prolapso de otros órganos pélvicos, así que informe a su médico acerca de cualquier otro síntoma que tenga. Si su médico encuentra un prolapso uterino , un rectocele o un prolapso del intestino delgado ( enterocele ) durante su examen pélvico de rutina, ese problema también se puede corregir durante la cirugía.</p>
+                        <p>Los lípidos necesitan estar unidos a las proteínas para moverse en la sangre. Los diferentes tipos de lipoproteínas tienen distintos propósitos:</p>
                         </br>
-                        <h1>Riesgos</h1>
+                        <h1>Tipos</h1>
                         
-                            <p>- Incontinencia urinaria</p>
-                            <p>- Retención urinaria</p>
-                            <p>- Dolor durante el coito</p>
-                            <p>- Infección</p>
-                            <p>- Lesión en la vejiga</p>
-                            <p>- Formación de una conexión o una abertura anormales entre dos órganos ( fístula )</p>
-                       
+                            <p>- HDL significa lipoproteínas de alta densidad en inglés. En ocasiones se le llama colesterol "bueno" porque transporta el colesterol de otras partes de su cuerpo de vuelta al hígado. Su hígado luego elimina el colesterol de su cuerpo</p>
+                            <p>- LDL significa lipoproteínas de baja densidad en inglés. A veces se le llama colesterol "malo" porque un nivel alto de LDL lleva a una acumulación de placa en las arterias</p>
+                            <p>- Lipoproteína de muy baja densidad (VLDL en inglés). Algunos también la califican como colesterol "malo" porque contribuye a la acumulación de placa en las arterias. Pero la lipoproteína de muy baja densidad y el LDL son diferentes; la lipoproteína de muy baja densidad transporta triglicéridos y el LDL principalmente lleva colesterol</p>
+                            
                         <div class="imagen-vejiga">
                             <img src="public/img/levVejiga.png" alt="">
                         </div>
                     </article>
                     <aside class="sidebar">
                         <div class="contenedor">
-                            <h1>Resultados</h1>
-                            <p>Suele utilizarse anestesia general durante la reparación de la vejiga y de la uretra. Es posible que permanezca en el hospital 1 o 2 días. Podría volver a su hogar con una sonda puesta. Lo más probable es que pueda volver a sus actividades habituales en unas 6 semanas. Durante los primeros 3 meses, evite las actividades intensas, como levantar objetos pesados o pasar largos períodos de pie, y aumente su nivel de actividad gradualmente. Realizar esfuerzos o levantar objetos una vez que haya retomado sus actividades habituales puede hacer que el problema vuelva a ocurrir.</p>
+                            <h1>¿Cómo puedo bajar mi colesterol?</h1>
+                            <p>Puede bajar su colesterol mediante cambios en el estilo de vida saludables para el corazón. Estos incluyen un plan de alimentación saludable, control del peso y ejercicio regular. Si estos cambios en el estilo de vida no son suficientes, es posible que también deba tomar medicamentos. Hay varios tipos de medicamentos disponibles para reducir el colesterol, incluyendo estatinas. Si toma medicamentos para reducir el colesterol, aún debe continuar con los cambios en el estilo de vida.</p>
                             </br>
-                            <p>La mayoría de las mujeres pueden volver a tener relaciones sexuales en menos de 6 semanas. El funcionamiento urinario suele normalizarse al cabo de 2 a 6 semanas.</p>
+                            <p>Algunas personas con hipercolesterolemia familiar pueden recibir un tratamiento llamado aféresis de lipoproteínas. Este tratamiento utiliza una máquina de filtrado para eliminar el colesterol malo (LDL) de la sangre. Luego, la máquina devuelve el resto de la sangre a la persona. </p>
                         </div>  
                     </aside>
                     </div>
