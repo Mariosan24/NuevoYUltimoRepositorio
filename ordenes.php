@@ -3,7 +3,7 @@
 
 session_start();
     $database_name = "proyecto_final";
-    $con = mysqli_connect("localhost","root","12345678",$database_name);
+    $con = mysqli_connect("localhost","root","",$database_name);
 
     if (isset($_POST["add"])){
         if (isset($_SESSION["cart"])){
