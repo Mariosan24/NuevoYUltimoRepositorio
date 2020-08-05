@@ -26,14 +26,14 @@
         <section id="#medio">
             <div class="contenedor cajas">
                 <div class="caja caja1">
-                    <img src="public/img/vagina.png">
-                    <h3>Ginecologia</h3>
-                    <p>Significa literalmente ciencia de la mujer y en medicina hace referencia a la especialidad médica y quirúrgica que estudia el sistema reproductor femenino.</p>
+                    <img src="public/img/mision.png">
+                    <h3>MISION</h3>
+                    <p>Contribuir al cuidado de la vida y la recuperación de la salud, mediante un servicio calificado en la persona y la salud integral.</p>
                 </div>
                 <div class="caja caja2">
-                    <img src="public/img/fetus.png">
-                    <h3>Obtetricia</h3>
-                    <p>Especialidad médica que se ocupa del embarazo, el parto y el puerperio, incluyendo las situaciones de riesgo que requieran de una intervención quirúrgica.</p>
+                    <img src="public/img/vision.png">
+                    <h3>VISION</h3>
+                    <p>Ser para el año 2020 una institución de salud de alta complejidad, líder en atención integral, segura, humanizada, centrada en la persona, cuidadora del medio ambiente y centro de referencia a nivel nacional e internacional.</p>
                 </div>
                 </div>  
             </div>  
