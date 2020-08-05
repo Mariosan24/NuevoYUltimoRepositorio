@@ -50,7 +50,7 @@
                 </div>
                 <div class="flex-hijo">
                     <div class="informacion">
-                         <p>Dr. Juan Carlos Galindo Paz &copy; 2019
+                         <p>Dr. Juan Carlos Galindo Paz &copy; 2020
                         </br>Barrio La Trinidad, contiguo a Farmacia Marifer
                         </br>La Paz, La Paz
                         </br>Telefono: 504-220-5032 / 504-2240-8723
