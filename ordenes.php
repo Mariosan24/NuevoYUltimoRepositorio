@@ -123,7 +123,7 @@ session_start();
 
 <div class="menu">
                <header>
-                <img src="public/img/logo.png" alt="logo" class="logo">
+               <img src="public/img/logocuba.png" alt="logo" class="logo">
                 <nav class="main-nav">
                     <ul>
                         <li><a href="index.php?page=home">Inicio</a></li>
