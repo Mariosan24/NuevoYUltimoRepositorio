@@ -4,7 +4,7 @@
 
   // geenrar la contraseña salada (salting)
   $usuario = obtenerUsuarioPorEmail('admin@demo.com');
-  if(empty($usuario)){
+  if(count($usuario)>0){
     $pswd = 'CorpDemo%33';
     $fchingreso = time();
     $pswdSalted = "";
