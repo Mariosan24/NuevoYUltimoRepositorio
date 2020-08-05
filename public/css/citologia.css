@@ -2,9 +2,9 @@
 :root{
     --primario:#346beb;
     --borde:#7ebbf7;
-    --secundario:#eff1f1;
+    --secundario:rgb(3, 21, 48);
     --oscuro:#1315ab;
-    --sombra: 0 1px 5px rgba(104,104,104,0.8);
+    --sombra: 0 1px 5px rgba(241, 0, 0, 0.87);
 }
 
  #enc
@@ -32,8 +32,7 @@ header{
     padding: 30px 10%;
     background-color: #02075d;
     height: 1em;
-    border-bottom: 5px coral solid;
-
+    border-bottom: 5px red solid;
 }
 
 header .actual a{
@@ -41,7 +40,6 @@ header .actual a{
     font-weight: bold;
     border: 2px solid var(--borde);
     padding: 5px;
-   
 }
 
 header img{
@@ -69,7 +67,7 @@ li,a{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
     font-size: 14px;
-    color: var(--secundario);
+    color: white;
     text-decoration: none;
 }
 
@@ -132,21 +130,22 @@ li,a{
 
 
 
-
+.citologia{
+    display: flex;
+}
 
 article{
-        width: 920px;
-        margin: 0px auto;
-        margin-left: 50px;
+        color: white;
+        width: 90%;
+        margin: 1% auto;
         background-color:var(--secundario);
         padding: 1em 2em 1em 2em;
         border: 16px,var(--borde);
         border-radius: 5%;
         box-shadow: 3px 3px 5px ,var(--borde);
-        margin-bottom: 100px;
         display: inline-block;
-    
     }
+
 article p{
      line-height: 1.5;
      justify-content: center;
@@ -155,13 +154,13 @@ article p{
 article h3
 {
     text-align: center;
-    border-bottom: 2px coral solid;
+    border-bottom: 2px red solid;
 }
 
 article h4
 {
     text-align: center;
-    border-bottom: 2px coral solid;
+    border-bottom: 2px red solid;
 }
 article p a{
      color:#fff;
