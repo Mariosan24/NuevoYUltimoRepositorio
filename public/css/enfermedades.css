@@ -145,7 +145,7 @@ header img{
 }
 /**********************************************Informacion**********************************************************/
 
-article{
+.article{
     max-width: 90%;
     background-color:var(--secundario);
     padding: 1em 2em 1em 2em;
