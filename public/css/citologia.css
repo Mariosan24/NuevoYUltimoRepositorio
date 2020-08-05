@@ -183,7 +183,7 @@ footer{
     height: 200px;
     align-content: center;
     line-height: 30px;
-    
+    border-top:5px red solid ;
 }
 
 .contenedor-footer{

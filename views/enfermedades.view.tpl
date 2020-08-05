@@ -10,7 +10,7 @@
 
         <!--Seccion medio-->
         <div id="enc">
-        <h2>Enfermedades de la mujer</h2>
+        <h2>Enfermedades de la Mujer</h2>
        </div>
        <section class="articulo">
        <article>
