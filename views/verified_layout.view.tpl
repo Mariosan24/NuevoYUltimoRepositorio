@@ -17,7 +17,7 @@
             <div class="menu">
                <header>
                <nav class="main-nav">
-               <img src="public/img/logocuba.png" alt="logo" class="logo">
+               <img src="public/img/logo.png" alt="logo" class="logo">
                 <ul>
                     {{if notifnum}}
                     <li><a href="index.php?page=notificacion">
@@ -46,7 +46,7 @@
             <footer>
             <div class="contenedor-footer">
                 <div class="flex-hijo">
-                    <img src="public/img/logocubafooter.png" alt="">
+                    <img src="public/img/logo.png" alt="">
                 </div>
                 <div class="flex-hijo">
                     <div class="informacion">
