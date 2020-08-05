@@ -55,6 +55,14 @@ CREATE TABLE `ordenes_detalle` (
   CONSTRAINT `detalle_producto_key` FOREIGN KEY (`cod_producto`) REFERENCES `productos` (`cod_producto`) ON DELETE NO ACTION ON UPDATE NO ACTION
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
+
+UPDATE `proyecto_final`.`productos` SET `descripcion` = 'Pruebas COVID', `prodimg` = 'covid.jpg' WHERE (`cod_producto` = '2');
+UPDATE `proyecto_final`.`productos` SET `prodimg` = 'enfermedadeswoman1.jpg' WHERE (`cod_producto` = '3');
+UPDATE `proyecto_final`.`productos` SET `descripcion` = 'Hemograma', `prodimg` = 'hemograma.jpeg' WHERE (`cod_producto` = '4');
+UPDATE `proyecto_final`.`productos` SET `descripcion` = 'Examen de Glucosa', `prodimg` = 'glucosa.jpg' WHERE (`cod_producto` = '5');
+UPDATE `proyecto_final`.`productos` SET `descripcion` = 'Examen de Colesterol', `prodimg` = 'colesterol.jpg' WHERE (`cod_producto` = '6');
+UPDATE `proyecto_final`.`productos` SET `descripcion` = 'Examen de Emabrazo', `prodimg` = 'controlprena3.jpg' WHERE (`cod_producto` = '7');
+
 use proyecto_final;
 select * from ordenes;
 select * from ordenes_detalle;
