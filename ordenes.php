@@ -251,10 +251,10 @@ session_start();
                                 <h1 style="font-size:20px; margin-bottom:auto;" ><?php echo $row["descripcion"]; ?></h5>
                                 <h1 class="text-danger" style=" font-size:20px;"> <?php echo  "Precio:"." L. ".$row["precio"]; ?></h5>
                                 <label style=""for="">Escoge la fecha:</label>
-                                 <input type="date"  name="cantidad" id="cantidad"/>
+                                 <input type="date"  name="cantidad" id="cantidad" class="date"/>
                                 <input type="hidden"name="descripcion" value="<?php echo $row["descripcion"]; ?>">
                                 <input type="hidden" name="precio" value="<?php echo $row["precio"]; ?>">
-                                <input type="submit" name="add" style="margin-top: 5px;" value="Añadir al carrito">
+                                <input type="submit" name="add" style="margin-top: 5px;" value="Añadir al carrito" class="boton">
                         </form>
 </div>
 <br>

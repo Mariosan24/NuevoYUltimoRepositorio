@@ -198,8 +198,8 @@ header img{
     box-shadow: var(--sombra);
     padding: 2rem;
     text-align: center;
-    background: rgb(248, 246, 246);
-    
+    background: rgb(3, 21, 48);
+    color: white;
 }
 
 .citas .cita img{
@@ -232,6 +232,13 @@ header img{
     color: white;
 }
 
+.date{
+    color: black;
+}
+
+.boton{
+    color: black;
+}
 
 /*Footer*/
 
