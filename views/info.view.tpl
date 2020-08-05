@@ -45,13 +45,13 @@
                     <h1>Asociaciones y Colegios a los que Pertenece</h1>
                     </br>
                     <h4>Colegio Medico de Honduras</h4>
-                    <img src="public/img/sociedad.png" alt="Sociedad de GinecologÃ­a y Obstetricia de Honduras">
+                    <img src="public/img/colegio.png" alt="Sociedad de GinecologÃ­a y Obstetricia de Honduras">
                     </br>
                     <h4>Asociado de Laboratorios Jenner</h4>
-                    <img src="public/img/FIGO.jpg" alt="International Federation of Gynecology and Obstetric">
+                    <img src="public/img/labs.png" alt="International Federation of Gynecology and Obstetric">
                     </br>
                     <h4>Colegio Quimico Farmaceutico</h4>
-                    <img src="public/img/FIGO.jpg" alt="International Federation of Gynecology and Obstetric">
+                    <img src="public/img/quimico.jpg" alt="International Federation of Gynecology and Obstetric">
                 </div>
 
 

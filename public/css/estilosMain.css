@@ -68,10 +68,10 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5% 10%;
+    padding: 30px 10%;
     background-color: #02075d;
     height: 1em;
-    border-bottom: 5px rgb(163, 0, 0) solid;
+    border-bottom: 5px red solid;
 
 }
 
@@ -82,9 +82,8 @@ header .actual a{
     padding: 5px;
    
 }
-
 header img{
-    width:  8em;
+    width: 15em;
 }
 
 
