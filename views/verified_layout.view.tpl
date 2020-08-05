@@ -50,11 +50,11 @@
                 </div>
                 <div class="flex-hijo">
                     <div class="informacion">
-                         <p>Dr. Mohamed Alcides Zelaya &copy; 2019
-                        </br>Calle 13, La Ceiba, Atlantida
-                        </br>Frente a Plaza El Iman
-                        </br>Telefono: 2440-1438
-                        </br>Horario de atencion: Lunes a Viernes de 9am-6pm</p>
+                         <p>Dr. Juan Carlos Galindo Paz &copy; 2019
+                        </br>Barrio La Trinidad, contiguo a Farmacia Marifer
+                        </br>La Paz, La Paz
+                        </br>Telefono: 504-220-5032 / 504-2240-8723
+                        </br>Correo Electronico: clinicaCuba.hn@hotmail.com</p>
                     </div>
                 </div>
             </div>

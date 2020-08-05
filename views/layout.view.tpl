@@ -11,6 +11,7 @@
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
             <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
             <link rel="stylesheet" href="public/css/estilosMain.css"/>
+            
             {{foreach css_ref}}
                 <link rel="stylesheet" href="{{uri}}" />
             {{endfor css_ref}}
@@ -39,11 +40,11 @@
                 </div>
                 <div class="flex-hijo">
                     <div class="informacion">
-                         <p>Dr. Mohamed Alcides Zelaya &copy; 2019
-                        </br>Calle 13, La Ceiba, Atlantida
-                        </br>Frente a Plaza El Iman
-                        </br>Telefono: 2440-1438
-                        </br>Horario de atencion: Lunes a Viernes de 9am-6pm</p>
+                         <p>Dr. Juan Carlos Galindo Paz &copy; 2019
+                        </br>Barrio La Trinidad, contiguo a Farmacia Marifer
+                        </br>La Paz, La Paz
+                        </br>Telefono: 504-220-5032 / 504-2240-8723
+                        </br>Correo Electronico: clinicaCuba.hn@hotmail.com</p>
                     </div>
                 </div>
             </div>
