@@ -67,8 +67,8 @@ function createPaypalTransacction( $_amount , $_items )
     $redirectUrls = new \PayPal\Api\RedirectUrls();
 
     $redirectUrls
-        ->setReturnUrl("http://localhost/Proyecto/index.php?page=checkoutapp")
-        ->setCancelUrl("http://localhost/Proyecto/index.php?page=checkoutcnl");
+        ->setReturnUrl("http://localhost/nw/Clinica/index.php?page=checkoutapp")
+        ->setCancelUrl("http://localhost/nw/Clinica/index.php?page=checkoutcnl");
 
     $payment = new \PayPal\Api\Payment();
     $payment->setIntent('sale')
