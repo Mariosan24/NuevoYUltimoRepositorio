@@ -64,7 +64,7 @@ header{
     padding: 30px 10%;
     background-color: #02075d;
     height: 1em;
-    border-bottom: 5px coral solid;
+    border-bottom: 5px red solid;
 
 }
 
@@ -127,17 +127,20 @@ header img{
     padding: 10px;
     width: 80%;
     text-align: center;
+    color: white;
     border-radius: 15px;
     box-shadow: var(--sombra);
-    background: rgb(233, 231, 231);
+    background: rgb(3, 21, 48);
     
 }
 
 #curriculum .datos h1{
-    border-bottom: 2px coral solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px red solid;
 }
 
 #curriculum .datos .asociaciones{
+    color: white;
     display: flex;
     flex-direction: column;
     box-shadow: var(--sombra);
@@ -146,12 +149,12 @@ header img{
     line-height: 40px;
     border-radius: 15px;
     margin: 20px;
-    background: white;
-
+    background: rgba(125, 142, 240, 0.308);
 }
 
 #curriculum .datos .asociaciones h1{
-    border-bottom: 2px coral solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px red solid;
 }
 
 #curriculum .datos .asociaciones img{
@@ -190,7 +193,7 @@ footer{
     height: 200px;
     align-content: center;
     line-height: 30px;
-    border-top:5px coral solid ;
+    border-top:5px red solid ;
 }
 
 footer .contenedor-footer{
