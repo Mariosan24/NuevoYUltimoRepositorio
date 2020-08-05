@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/controlprena.jpg" alt="">
+                <img src="public/img/controlprena3.jpg" alt="">
                 <div>
                     <h1>Control Prenatal</h1>
                     <p>Es el conjunto de actividades sanitarias que reciben las embarazadas durante la gestación .</p>
