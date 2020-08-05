@@ -20,7 +20,7 @@
                 </br>
                 <h1>Estudios Realizados</h1>
                 </br>
-                <h4>Doctor en medicina General y cirugia</h4>
+                <h4>Doctor en Medicina General y Cirugia</h4>
                 <p>Universidad Nacional Autonoma de Honduras</p>
                 </br>
                 <h4>Especialista en Ginecologia y Obstetricia</h4>
@@ -48,6 +48,9 @@
                     <img src="public/img/sociedad.png" alt="Sociedad de GinecologÃ­a y Obstetricia de Honduras">
                     </br>
                     <h4>Asociado de Laboratorios Jenner</h4>
+                    <img src="public/img/FIGO.jpg" alt="International Federation of Gynecology and Obstetric">
+                    </br>
+                    <h4>Colegio Quimico Farmaceutico</h4>
                     <img src="public/img/FIGO.jpg" alt="International Federation of Gynecology and Obstetric">
                 </div>
 
