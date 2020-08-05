@@ -4,7 +4,7 @@
     --borde:#7ebbf7;
     --secundario:#eff1f1;
     --oscuro:#1315ab;
-    --sombra: 0 1px 5px rgba(104,104,104,0.8);
+    --sombra: 0 1px 5px rgba(241, 0, 0, 0.87);
 }
 
 
@@ -91,8 +91,6 @@ header img{
     
 }
 
-
-
 .main-nav li { 
     display: inline-block;
     padding: 0px 20px;
@@ -125,7 +123,7 @@ header img{
 #curriculum .datos{
     margin: 10px;
     padding: 10px;
-    width: 80%;
+    width: 90%;
     text-align: center;
     color: white;
     border-radius: 15px;
@@ -164,15 +162,12 @@ header img{
 #curriculum .imagen-doctor{
     margin: 15px;
     width: 50%;
-    
-    
 }
 
 #curriculum .imagen-doctor img{
     width: 100%;
     box-shadow: var(--sombra);
     border-radius: 15px;
-    
 }
 
 #curriculum .imagen-doctor #imagen2{
