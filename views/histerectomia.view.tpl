@@ -13,65 +13,57 @@
                 <section class="informacion">
                     <article>
                         
-                        <h1>Histerectomia Vaginal</h1>
-                        <p>La histerectomía vaginal es un procedimiento quirúrgico para extirpar el útero a través de la vagina.
-                        Durante la histerectomía vaginal, antes de extirpar el útero, el cirujano lo separa de los ovarios, las trompas de Falopio y la vagina superior, así como de los vasos sanguíneos y del tejido conectivo que lo sostienen.</p>
+                        <h1>Pruebas de Covid</h1>
+                        <p>Hay dos tipos de pruebas de detección del COVID-19 disponibles: pruebas virales y pruebas de anticuerpos.</p>
                         </br>                   
-                        <p>La histerectomía vaginal implica una estancia en el hospital más breve, un menor costo y una recuperación más rápida en comparación con la histerectomía abdominal, que requiere una incisión en la parte inferior del abdomen. Sin embargo, dependiendo del tamaño y la forma del útero o del motivo de la cirugía, es posible que la histerectomía vaginal no pueda realizarse. El médico hablará contigo sobre otras opciones quirúrgicas, como la histerectomía abdominal.</p>
+                        <p>Una prueba viral le indica si tiene una infección.</p>
                         </br>
-                        <p>La histerectomía con frecuencia implica la extirpación del cuello uterino y del útero. Cuando el cirujano también extirpa un ovario o ambos y las trompas de Falopio, esto se denomina "histerectomía total con salpingooforectomía". Todos estos órganos son parte del sistema reproductor y se ubican en la pelvis.</p>
+                        <p>Una prueba de anticuerpos le permite saber si tuvo una infección en el pasado. Una prueba de anticuerpos puede no mostrar si está cursando una infección, porque su organismo puede demorar 1 a 3 semanas después de la infección en crear anticuerpos.</p>
                         </br>
                         <h1>¿Por qué realizarla?</h1>
-                        <p>La histerectomía vaginal trata distintos problemas ginecológicos, entre los que se incluyen:</p>
+                        <p>Es posible que tener anticuerpos contra el virus que causa el COVID-19 lo proteja de volver a ser infectado por el virus. Si esto ocurre, no sabemos qué nivel de protección pueden aportar los anticuerpos ni cuánto puede durar.</p>
                         
                         
-                                <h4>Dolor pélvico crónico</h4>
-                                <p>Si una enfermedad uterina es indudablemente la causa del dolor, puede que la histerectomía ayude, pero solo se utiliza como último recurso. El dolor pélvico crónico puede tener varias causas, por lo que es fundamental un diagnóstico preciso de la causa antes de realizar una histerectomía.</p> 
+                                <h4>Cómo hacerse la prueba de detección de infección en curso por COVID-19</h4>
+                                <p>Para saber si está infectado en la actualidad se usan pruebas virales. La mayoría de las personas se enferman con síntomas leves y pueden recuperarse en casa sin atención médica. Contacte a su proveedor de atención médica si se agravan los síntomas o si tiene alguna consulta acerca de su salud.​​</p> 
                             
-                                <h4>Sangrado uterino anormal</h4>  
-                                <p>Cuando los medicamentos o un procedimiento quirúrgico menos invasivo no controlan los períodos irregulares, intensos o muy prolongados, es posible que se necesite una histerectomía."</p> 
+                                <h4>Las decisiones acerca de la realización de pruebas las toman los departamentos de salud estatales y localesícono de sitio externo o los proveedores de atención médica. </h4>  
+                                <p> Puede visitar el sitio web de su departamento de salud estatal o localícono de sitio externo para ver la información más actualizada a nivel local acerca de las pruebas de detección.</p> 
                            
-                                <h4>Prolapso uterino</h4>
+                                <h4>Si tiene síntomas de COVID-19</h4>
                                 <p>Cuando se debilitan o estiran los tejidos y ligamentos que sostienen la pelvis, el útero puede descender hacia la vagina, lo que causa pérdida de orina, presión pélvica o dificultad para defecar. Extirpar el útero y reparar los tejidos de sostén puede aliviar esos síntomas.</p>
                            
-                                <h4>Endometriosis del útero</h4>
-                                <p> Esto ocurre cuando el tejido que habitualmente reviste el útero crece en la pared uterina. El resultado es un útero agrandado y períodos intensos y dolorosos.</p>
+                                <h4>Si tiene síntomas de COVID-19 y no se realiza la prueba de detección</h4>
+                                <p>Es importante que se quede en casa. Sepa qué hacer si se siente enfermo.</p>
                           
-                                <h4>Endometriosis</h4>
-                                <p>Esto ocurre cuando el tejido que reviste el útero (endometrio) crece fuera de él, lo que afecta los ovarios, las trompas de Falopio y otros órganos. La mayoría de las mujeres que padecen endometriosis se someten a una histerectomía laparoscópica o robótica, pero a veces es posible realizar una histerectomía vaginal.</p>
-                           
-                                <h4>Fibromas</h4>
-                                <p>Muchas histerectomías se realizan para tratar de forma permanente estos tumores benignos en el útero que pueden causar sangrado persistente, anemia, dolor pélvico, dolor durante el coito y presión en la vejiga. En el caso de los fibromas grandes, es posible que necesites una cirugía para extirpar el útero a través de una incisión que se realiza en la parte inferior del abdomen (histerectomía abdominal).</p>
-                           
-                                <h4>Cáncer ginecológico</h4>
-                                <p>Si tienes cáncer de útero, cuello uterino, endometrio u ovarios o cambios precancerígenos, puede que el médico te recomiende que te realices una histerectomía. Generalmente, el tratamiento para el cáncer de ovario implica una histerectomía abdominal, pero a veces una histerectomía vaginal es adecuada para las mujeres que tienen cáncer de cuello uterino o endometrio.</p>
-                            
+                                
                         
-                        <h1>Riesgos de la Histerectomia</h1>
-                        <p>Aunque la histerectomía vaginal generalmente es segura, toda cirugía presenta riesgos. Algunos riesgos de la histerectomía vaginal son los siguientes:</p>
+                        <h1>Sintomas de COVID-19</h1>
+                        <p>La COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización.</p>
                      
-                            <p>- Sangrado Intenso</p>
-                            <p>- Coágulos sanguíneos en las piernas o los pulmones</p>
-                            <p>- Infeccion</p>
-                            <p>- Daño en los órganos de alrededor</p>
-                            <p>- Reacciones adversas a la anestesia</p>
+                            <p>- Fiebre</p>
+                            <p>- Tos Seca</p>
+                            <p>- Cansancio</p>
+                            <p>- Molestias y dolores</p>
+                            <p>- Dolor de garganta</p>
+                            <p>- Dolor de cabeza</p>
                        
-                        <p>Una endometriosis grave o el tejido cicatricial (adherencias en la pelvis) pueden obligar al cirujano a cambiar la histerectomía vaginal por una histerectomía laparoscópica o abdominal durante la cirugía.</p>
+                        <p>Si presentas síntomas graves, busca atención médica inmediata. Sin embargo, siempre debes llamar a tu doctor o centro de atención sanitaria antes de presentarte en el lugar en cuestión.</p>
                         </br>
                         <div id="imagen-hist">
-                            <img src="public/img/histerectomia.jpg" alt="Procedimiento">
+                            <img src="public/img/covid19.jpg" alt="Procedimiento">
                         </div>
                     </article>
                     <aside class="sidebar">
                         <h1>Resultados</h1>
-                        <p>Después de una histerectomía, ya no tendrás períodos menstruales ni podrás quedar embarazada.</p>
+                        <p>Si el resultado de su prueba viral de COVID-19 es positivo, conozca las medidas de protección que debe tomar si está enfermo o debe cuidar a alguien.</p>
                         </br>
-                        <p>Si te extirparon los ovarios, pero no habías llegado a la menopausia, la comenzarás inmediatamente después de la cirugía. Puedes presentar síntomas como sequedad vaginal, sofocones y sudores nocturnos. El médico puede recomendarte medicamentos para estos síntomas. Puede recomendarte un reemplazo hormonal incluso si no tienes síntomas.</p>
+                        <p>­­Si el resultado de su prueba viral de detección del COVID-19 es negativo, puede ser que no estuviera infectado en el momento de obtención de la muestra. No obstante, eso no significa que no se enfermará. </p>
                         </br>
-                        <p>Si durante la cirugía no te extirparon los ovarios, y todavía tenías períodos antes de la cirugía, los ovarios seguirán produciendo hormonas y óvulos hasta que llegues a la menopausia natural.</p>
+                        <p>El resultado de la prueba solo significa que no tenía COVID-19 al momento de realizarse la prueba. Puede obtener un resultado negativo en la prueba si la muestra fue tomada cuando estaba en la primera etapa de la infección y el resultado podría ser positivo más adelante. </p>
                         </br>
                         <div id="imagen-hists">
-                            <img src="public/img/histerec.jpg" alt="">
+                            <img src="public/img/covid2.jpg" alt="">
                         </div>
                     </aside>
                 </section>

@@ -25,15 +25,15 @@
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/histerec3.jpg" alt="">
+                <img src="public/img/covid.jpg" alt="">
                 <div>
-                    <h1>Histerectomía</h1>
-                    <p>Es la extracción del útero, ​ ya sea por causas naturales o por causa de una intervención quirúrgica.</p>
+                    <h1>Pruebas COVID-19</h1>
+                    <p>Hay dos tipos de pruebas de detección del COVID-19 disponibles: pruebas virales y pruebas de anticuerpos.</p>
                      <a href="index.php?page=histerectomia" class="btn1">Leér más</a>
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/enfermedadeswoman.jpg" alt="">
+                <img src="public/img/enfermedadeswoman1.jpg" alt="">
                 <div>
                     <h1>Enfermedades de la mujer</h1>
                     <p> Se enfoca en el tratamiento y diagnóstico de enfermedades y padecimientos que afectan a la mujer.</p>
@@ -41,25 +41,25 @@
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/partonatural.jpeg" alt="">
+                <img src="public/img/hemograma.jpeg" alt="">
                 <div>
-                    <h1>Parto Natural</h1>
+                    <h1>Hemogramas</h1>
                     <p>Es el proceso fisiológico con el que la mujer finaliza su gestación a término (entre las 37 y las 42 semanas cumplidas). </p>
                      <a href="index.php?page=parto" class="btn1">Leér más</a>
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/cesarea.jpg" alt="">
+                <img src="public/img/glucosa.jpg" alt="">
                 <div>
-                    <h1>Cesárea</h1>
+                    <h1>Examen de Glucosa</h1>
                     <p>Consiste en extraer el feto del vientre de la madre mediante una incisión en la pared abdominal y uterina y evitar el parto.</p>
                     <a href="index.php?page=parto#ultrasonido" class="btn1">Leér más</a>
                 </div>
             </div>
             <div class="cita">
-                <img src="public/img/levantamiento.jpg" alt="">
+                <img src="public/img/colesterol.jpg" alt="">
                 <div>
-                    <h1>Levantamiento de vejiga</h1>
+                    <h1>Examenes de Colesterol</h1>
                     <p>Reparación de prolapso vesical.</p>
                     <a href="index.php?page=levantamiento" class="btn1">Leér más</a>
                 </div>
@@ -67,7 +67,7 @@
             <div class="cita">
                 <img src="public/img/controlprena3.jpg" alt="">
                 <div>
-                    <h1>Control Prenatal</h1>
+                    <h1>Pruebas de Embarazo</h1>
                     <p>Es el conjunto de actividades sanitarias que reciben las embarazadas durante la gestación .</p>
                     <a href="index.php?page=ultra#" class="btn1">Leér más</a>
                 </div>
