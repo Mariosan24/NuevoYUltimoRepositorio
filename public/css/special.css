@@ -16,3 +16,7 @@
     opacity: 0.6;
     text-decoration: none;
   }
+
+  ul li{
+      text-decoration: none;
+  }
